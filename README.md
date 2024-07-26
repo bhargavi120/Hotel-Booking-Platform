@@ -35,7 +35,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
     bash
-    git clone https://github.com/waseem-9/Hotel-Booking-Platform.git
+    git clone https://github.com/bhargavi120/Hotel-Booking-Platform.git
     
 
 2. Navigate to the backend directory:
